@@ -1,0 +1,6 @@
+{
+  "name": "Chocolate Sarayi Alger",
+  "description": "Coffee shop moderne et chaleureux à Garden City, Alger. Cafés de spécialité, desserts faits maison, pâtisseries, crêpes, gaufres et boissons gourmandes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
